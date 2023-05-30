@@ -1,0 +1,20 @@
+{
+  "server" : {
+    "address": "0.0.0.0",
+    "allow-cors": false,
+    "base-path": "",
+    "callback-port": 4723,
+    "debug-log-spacing": false,
+    "keep-alive-timeout": 60000,
+    "local-timezone": false,
+    "log-level": "debug",
+    "log-no-colors": false,
+    "log-timestamp": false,
+    "long-stacktrace": false,
+    "no-perms-check": false,
+    "port": 4723,
+    "relaxed-security": false,
+    "session-override": false,
+    "strict-caps": false
+  }
+}
